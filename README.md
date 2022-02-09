@@ -2,8 +2,9 @@
 
 
 ## About Me
-- Name ( pseudonym ) inwGodRip
-- Backend Developer C++ C# JS Node.js PHP
+- Name ( pseudonym ) : inwGodRip
+- Backend Developer 
+- language : C++ C# JS Node.js PHP
 - Computer Science
 - Undergraduate student Rajamangala University of Technology Krungthep
 
