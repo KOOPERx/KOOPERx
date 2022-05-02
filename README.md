@@ -2,7 +2,7 @@
 
 
 ## About Me
-- Name ( pseudonym ) : inwGodRip
+- Name ( pseudonym ) : !nwGodRip
 - Backend Developer 
 - language : C++ C# JS Node.js PHP
 - Computer Science
