@@ -3,10 +3,11 @@
 
 ## About Me
 - Name ( pseudonym ) : !nwGodRip
-- Backend Developer 
+- Specialty : Backend Developer, System designer
 - language : C++ C# JS Node.js PHP
-- Computer Science
-- Undergraduate student Rajamangala University of Technology Krungthep
+- Framework : express.js, next.js, discord.js, react.js
+- Academic major : Computer Science
+- Education : Undergraduate student Rajamangala University of Technology Krungthep
 
 ## Works
 - Discord Music Bot https://loxybot.xyz
