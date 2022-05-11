@@ -13,6 +13,7 @@
 - Discord Music Bot https://loxybot.xyz
 - Discord Ticker cryptocerrency https://github.com/danunai1993/crypto-ticker-discordjs-v13
 - Web board NFTgames & Price https://lnwnftgames.com
+- e commerce basic java gui https://github.com/danunai1993/e-commerce-gui
 
 ## DM For Works
 - facebook : https://fb.com/danunai.sangkachalaw
