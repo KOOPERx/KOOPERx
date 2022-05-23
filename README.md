@@ -12,7 +12,7 @@
 ## Works
 - Discord Music Bot https://github.com/danunai1993/Loxybotweb-lastversion (loxybot.xyz)
 - Discord Ticker cryptocerrency https://github.com/danunai1993/crypto-ticker-discordjs-v13
-- Web board NFTgames & Price https://lnwnftgames.com
+- Web board NFTgames & Price https://lnwnftgames.com (Failed)
 - E-commerce basic java gui https://github.com/danunai1993/e-commerce-gui
 
 ## DM For Works
