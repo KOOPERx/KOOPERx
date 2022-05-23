@@ -4,7 +4,7 @@
 ## About Me
 - Name ( pseudonym ) : !nwGodRip
 - Specialty : Backend Developer, System designer
-- language : C++ C# (JS Node.js) PHP
+- language : C++ C# JS(Node.js) PHP Go(Newbie)
 - Framework : express.js, next.js, discord.js, react.js
 - Academic major : Computer Science
 - Education : Undergraduate student Rajamangala University of Technology Krungthep
