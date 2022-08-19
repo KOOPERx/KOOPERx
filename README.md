@@ -30,7 +30,8 @@
 ## DM For Works
 - facebook : https://fb.com/danunai.sangkachalaw
 - Email :  danunai1993@gmail.com
-
+<img src="https://activity-graph.herokuapp.com/graph?username=danunai1993&custom_title=Ahmed%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
 
 ![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=danunai1993&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=danunai1993&theme=algolia&count-private=true&v=2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danunai1993&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 ---
