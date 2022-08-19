@@ -30,3 +30,7 @@
 ## DM For Works
 - facebook : https://fb.com/danunai.sangkachalaw
 - Email :  danunai1993@gmail.com
+
+
+![Fnr's github stats](https://github-readme-stats.vercel.app/api?username=danunai1993&count_private=true&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=danunai1993&theme=algolia&count-private=true&v=2">
+---
