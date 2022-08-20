@@ -53,5 +53,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=danunai1993&custom_title=Ahmed%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danunai1993&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danunai1993&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danunai1993&theme=tokyonight">
 </p>
