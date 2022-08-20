@@ -31,8 +31,6 @@
 - E-commerce basic java gui https://github.com/danunai1993/e-commerce-gui
 
 ## DM For Works
-- facebook : https://fb.com/danunai.sangkachalaw
-- Email :  danunai1993@gmail.com
 
 <p align="center">
   <a href="https://twitter.com/" target="_blank">
@@ -54,7 +52,6 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=danunai1993&custom_title=Ahmed%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
 
-<span align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=danunai1993&count_private=true&show_icons=true&theme=radical">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danunai1993&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
-</span>
+</p>
