@@ -29,7 +29,7 @@
 ## <p align="center">Works</p>
 
 
-## <p align="center">DM For Works</p>
+## <p align="center"><img src="https://img.icons8.com/external-bearicons-outline-color-bearicons/24/external-Direct-Message-social-media-bearicons-outline-color-bearicons-2.png"/> DM For Works</p>
 
 <p align="center">
   <a href="https://twitter.com/" target="_blank">
