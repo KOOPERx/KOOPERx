@@ -1,14 +1,15 @@
 
 
 
-## About Me
+## <p align="center">About Me</p>
 - Name ( pseudonym ) : !nwGodRip
 - Specialty : Backend Developer, full stack developer
 - Academic major : Computer Science
 - Education : Undergraduate student Rajamangala University of Technology Krungthep
 
-## Skills
+## <p align="center">Skills</p>
 <span align="center" >
+<p align="center">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img src="https://img.icons8.com/color/48/000000/typescript.png" />
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
@@ -22,12 +23,13 @@
 <img src="https://img.icons8.com/color/48/000000/git.png"/>      
 <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+</p>
 </span>
 
-## Works
+## <p align="center">Works</p>
 
 
-## DM For Works
+## <p align="center">DM For Works</p>
 
 <p align="center">
   <a href="https://twitter.com/" target="_blank">
