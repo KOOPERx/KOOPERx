@@ -2,10 +2,10 @@
 
 
 ## <p align="center"><img src="https://img.icons8.com/bubbles/24/man-in-blue-jacket-information.png"/> About Me</p>
-- Name ( pseudonym ) : !nwGodRip
-- Specialty : Backend Developer, full stack developer
-- Academic major : Computer Science
-- Education : Undergraduate student Rajamangala University of Technology Krungthep
+- <b>Name ( pseudonym )</b> : !nwGodRip
+- <b>Specialty</b> : Backend Developer, full stack developer
+- <b>Academic major</b> : Computer Science
+- <b>Education</b> : Undergraduate student Rajamangala University of Technology Krungthep
 
 ## <p align="center"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/24/external-skills-job-search-flaticons-lineal-color-flat-icons-2.png"/> Skills</p>
 <span align="center" >
