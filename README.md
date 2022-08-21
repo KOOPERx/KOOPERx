@@ -49,9 +49,15 @@
   </a>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=STATS+CODEING;The+work+i+am+doing+now&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=danunai1993&custom_title=Ahmed%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danunai1993&theme=tokyonight">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danunai1993&theme=tokyonight">
 </p>
+
+
