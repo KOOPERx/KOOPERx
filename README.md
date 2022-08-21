@@ -8,23 +8,12 @@
 - <b>Education</b> : Undergraduate student Rajamangala University of Technology Krungthep
 
 ## <p align="center"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/24/external-skills-job-search-flaticons-lineal-color-flat-icons-2.png"/> Skills</p>
-<span align="center" >
+
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img src="https://img.icons8.com/color/48/000000/typescript.png" />
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-<img src="https://img.icons8.com/plasticine/48/react.png"/>
-<img src="https://img.icons8.com/color/48/express-js.png"/>
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48px"/>
-<img src="https://img.icons8.com/color/48/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>      
-<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,go,cs,cpp,nodejs,react,express,next,mongodb,mysql,git,vscode" />
+  </a>
 </p>
-</span>
 
 ## 
 
