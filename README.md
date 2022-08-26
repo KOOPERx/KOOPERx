@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=STATS+CODEING;The+work+i+am+doing+now;what+i+do+everyday;Main+language+JavaScript+and+Golang&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=STATS+CODEING;The+work+i+am+doing+now;what+i+do+everyday;Main+language+JavaScript+&+Golang&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=danunai1993&custom_title=Ahmed%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
