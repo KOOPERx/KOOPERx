@@ -21,7 +21,7 @@
 ## <p align="center"><img src="https://img.icons8.com/external-bearicons-outline-color-bearicons/24/external-Direct-Message-social-media-bearicons-outline-color-bearicons-2.png"/> DM For Works</p>
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://twitter.com/#" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
     <a href="mailto:lnwgodrip@gmail.com" target="_blank">
