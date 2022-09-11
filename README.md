@@ -5,7 +5,7 @@
 - <b>Name ( pseudonym )</b> : !nwGodRip
 - <b>Specialty</b> : Backend Developer, full stack developer
 - <b>Academic major</b> : Computer Science
-- <b>Education</b> : Undergraduate student Rajamangala University of Technology Krungthep RMUTK
+- <b>Education</b> : Undergraduate student Rajamangala University of Technology Krungthep ( RMUTK )
 
 ## <p align="center"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/24/external-skills-job-search-flaticons-lineal-color-flat-icons-2.png"/> Skills</p>
 
