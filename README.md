@@ -45,8 +45,8 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=danunai1993&custom_title=Ahmed%27s%20Contribution%20Graph&theme=react-dark&count-private=true">
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danunai1993&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danunai1993&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danunaise&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danunaise&theme=tokyonight">
 </p>
 
 
