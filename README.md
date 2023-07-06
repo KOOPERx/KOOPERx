@@ -2,7 +2,7 @@
 
 
 ## <p align="center"><img src="https://img.icons8.com/bubbles/24/man-in-blue-jacket-information.png"/> About Me</p>
-- <b>Name ( pseudonym )</b> : ThepZusture
+- <b>Name ( pseudonym )</b> : Zusture
 - <b>Specialty</b> : junior Software Engineer
 - <b>Academic major</b> : Computer Science
 - <b>Education</b> : Undergraduate student Rajamangala University of Technology Krungthep ( RMUTK )
