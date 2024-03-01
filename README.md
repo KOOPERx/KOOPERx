@@ -1,17 +1,16 @@
 
 
 
-## <p align="center"><img src="https://img.icons8.com/bubbles/24/man-in-blue-jacket-information.png"/> About Me</p>
-- <b>Name ( pseudonym )</b> : Zusture
-- <b>Specialty</b> : Fullstack Developer
-- <b>Academic major</b> : Computer Science
-- <b>Education</b> : Undergraduate student Rajamangala University of Technology Krungthep ( RMUTK )
+
+I am <b>Zusture</b>, a Fullstack Developer and Software Engineer with a passion for coding and learning. I have a strong interest in continuous learning, as whenever I stop, I always catch up. I am quick to learn and enjoy planning and working with clarity.<br/>
+<br/>
+<b>Don't let obstacles and limitations stop your abilities.</b>
 
 ## <p align="center"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/24/external-skills-job-search-flaticons-lineal-color-flat-icons-2.png"/> Skills</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,react,express,next,mongodb,postgres,mysql,prisma,git,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,mongodb,postgres,mysql,prisma,git,postman" />
   </a>
 </p>
 
