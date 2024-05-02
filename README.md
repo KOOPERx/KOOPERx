@@ -16,4 +16,4 @@ email : lnwgodrip@gmail.com
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danunaise&theme=tokyonight">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danunaise&theme=tokyonight">
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&random=true&width=900&lines=You're+doing+great!+Surely%2C+you+will+succeed+in+everything+you+strive+for!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D9F7&random=true&width=900&lines=You're+doing+great!+Surely%2C+you+will+succeed+in+everything+you+strive+for!" alt="Typing SVG" /></a>
