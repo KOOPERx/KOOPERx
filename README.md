@@ -5,7 +5,7 @@ I am <b>Zusture</b>, a Fullstack Developer and Software Engineer with a passion 
 
 ### Languages and tools :
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,mongodb,postgres,mysql,prisma,git,postman" width="400" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,nest,mongodb,postgres,mysql,prisma,git,postman" width="400" />
   </a>
 
 ### Contact
