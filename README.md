@@ -9,7 +9,7 @@ I am <b>Zusture</b>, a Fullstack Developer and Software Engineer with a passion 
   </a>
 
 ### Contact
-email : lnwgodrip@gmail.com
+email : danunai.mt@gmail.com
 
 ### Github stats
 <p align="left">
